@@ -1,3 +1,3 @@
 # Content Folder
 
-Folder credentials existing in .json files
+Folder fo credentials existing in .json files
